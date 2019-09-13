@@ -22,7 +22,7 @@ Para atualizar as informações na tela, utilizamos o SetState, funciona como um
 
 ## State Management
 
-![](docs/state.png)
+![](docs/state.gif)
 
 ## Provider
 
@@ -31,6 +31,8 @@ Singleton, garante que só teremos uma única instância de um determinado objet
 ## BLoC
 
 A arquitetura BLoC (Business Logic Component) permite uma separação da logica de negócio da sua aplicação e da UI através do uso de Streams.
+
+![](docs/bloc.gif)
 
 ## Run
 
