@@ -22,7 +22,7 @@ Para atualizar as informações na tela, utilizamos o SetState, funciona como um
 
 ## State Management
 
-![](docs/state.PNG)
+![](docs/state.png)
 
 ## Provider
 
