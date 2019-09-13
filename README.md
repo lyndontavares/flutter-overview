@@ -53,8 +53,15 @@ A arquitetura BLoC (Business Logic Component) permite uma separação da logica 
  flutter create .
  flutter run -d chrome
  
- https://flutter.dev/docs/get-started/web
+ 
 
 ```
 
+## Refs
+
+https://flutter.dev/docs/get-started/web
+
+https://www.didierboelens.com/2019/04/bloc---scopedmodel---redux---comparison/
+
+https://balta.io/blog/flutter-bloc-provider-state-management
 
